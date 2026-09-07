@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://raw.githubusercontent.com/w2kata/Romance-R6/main/Romance-R6.exe",
+  "sha256": "f5f3f5471293691f2936821001185e1005ba1a94cfe7fdb7bb4de4c9a452e58d",
+  "mandatory": true,
+  "release_notes": "Initial automatic updater release"
+}
